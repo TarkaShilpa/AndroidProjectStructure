@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomerRecordApp</string>
+    <string name="title_customer_detail">Customer Detail</string>
+</resources>
